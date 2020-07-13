@@ -1,0 +1,511 @@
+a:1:{s:10:"SCENE_DATA";a:10:{s:5:"TITLE";s:16:"Gorod_weather_ow";s:10:"BACKGROUND";s:0:"";s:8:"PRIORITY";s:2:"20";s:6:"HIDDEN";s:1:"1";s:9:"WALLPAPER";s:0:"";s:15:"WALLPAPER_FIXED";s:1:"0";s:18:"WALLPAPER_NOREPEAT";s:1:"0";s:10:"AUTO_SCALE";s:1:"1";s:18:"DEVICES_BACKGROUND";s:0:"";s:8:"ELEMENTS";a:19:{i:0;a:30:{s:2:"ID";s:3:"213";s:5:"TITLE";s:11:"back_button";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"10";s:4:"LEFT";s:2:"20";s:5:"WIDTH";s:2:"40";s:6:"HEIGHT";s:2:"40";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:4:"1001";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:171:"<div class="backbutton" onclick="location.href = '/popup/scenes/14.html';">
+    <div data-page="home" class="icon"><i class="fa fa-chevron-circle-left"></i></div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:1;a:30:{s:2:"ID";s:3:"214";s:5:"TITLE";s:7:"heading";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"10";s:4:"LEFT";s:2:"80";s:5:"WIDTH";s:3:"924";s:6:"HEIGHT";s:2:"40";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:4:"1000";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:81:"<div class="heading" style="font-size:32px;text-align:center;">Погода</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:2;a:30:{s:2:"ID";s:3:"215";s:5:"TITLE";s:5:"cont1";s:4:"TYPE";s:9:"container";s:3:"TOP";s:2:"79";s:4:"LEFT";s:2:"15";s:5:"WIDTH";s:3:"984";s:6:"HEIGHT";s:3:"530";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:3:"990";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:0:"";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"0";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:3;a:30:{s:2:"ID";s:3:"216";s:5:"TITLE";s:3:"fon";s:4:"TYPE";s:3:"img";s:3:"TOP";s:1:"0";s:4:"LEFT";s:1:"0";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:1:"1";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:12:{i:0;a:27:{s:5:"TITLE";s:14:"ФЕВРАЛЬ";s:5:"IMAGE";s:45:"/cms/scenes/backgrounds/weather/February1.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:14:"ФЕВРАЛЬ";s:18:"CONDITION_ADVANCED";s:113:"if (stripos(gg('ThisComputer.dateNow'), 'Феврал')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"2";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:1;a:27:{s:5:"TITLE";s:12:"ЯНВАРЬ";s:5:"IMAGE";s:44:"/cms/scenes/backgrounds/weather/January1.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:12:"ЯНВАРЬ";s:18:"CONDITION_ADVANCED";s:111:"if (stripos(gg('ThisComputer.dateNow'), 'Январ')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"1";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:2;a:27:{s:5:"TITLE";s:8:"МАРТ";s:5:"IMAGE";s:42:"/cms/scenes/backgrounds/weather/March1.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:8:"МАРТ";s:18:"CONDITION_ADVANCED";s:109:"if (stripos(gg('ThisComputer.dateNow'), 'Март')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"3";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:3;a:27:{s:5:"TITLE";s:12:"АПРЕЛЬ";s:5:"IMAGE";s:42:"/cms/scenes/backgrounds/weather/April1.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:12:"АПРЕЛЬ";s:18:"CONDITION_ADVANCED";s:111:"if (stripos(gg('ThisComputer.dateNow'), 'Апрел')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"4";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:4;a:27:{s:5:"TITLE";s:6:"МАЙ";s:5:"IMAGE";s:40:"/cms/scenes/backgrounds/weather/May1.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:6:"МАЙ";s:18:"CONDITION_ADVANCED";s:107:"if (stripos(gg('ThisComputer.dateNow'), 'Мая')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"5";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:5;a:27:{s:5:"TITLE";s:8:"ИЮНЬ";s:5:"IMAGE";s:41:"/cms/scenes/backgrounds/weather/June2.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:8:"ИЮНЬ";s:18:"CONDITION_ADVANCED";s:107:"if (stripos(gg('ThisComputer.dateNow'), 'Июн')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"6";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:6;a:27:{s:5:"TITLE";s:8:"ИЮЛЬ";s:5:"IMAGE";s:41:"/cms/scenes/backgrounds/weather/July2.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:8:"ИЮЛЬ";s:18:"CONDITION_ADVANCED";s:107:"if (stripos(gg('ThisComputer.dateNow'), 'Июл')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"7";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:7;a:27:{s:5:"TITLE";s:12:"АВГУСТ";s:5:"IMAGE";s:43:"/cms/scenes/backgrounds/weather/August1.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:12:"АВГУСТ";s:18:"CONDITION_ADVANCED";s:111:"if (stripos(gg('ThisComputer.dateNow'), 'Авгус')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"8";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:8;a:27:{s:5:"TITLE";s:16:"СЕНТЯБРЬ";s:5:"IMAGE";s:46:"/cms/scenes/backgrounds/weather/September3.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:16:"СЕНТЯБРЬ";s:18:"CONDITION_ADVANCED";s:109:"if (stripos(gg('ThisComputer.dateNow'), 'Сент')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"9";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:9;a:27:{s:5:"TITLE";s:14:"ОКТЯБРЬ";s:5:"IMAGE";s:44:"/cms/scenes/backgrounds/weather/October1.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:14:"ОКТЯБРЬ";s:18:"CONDITION_ADVANCED";s:109:"if (stripos(gg('ThisComputer.dateNow'), 'Октя')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:2:"10";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:10;a:27:{s:5:"TITLE";s:12:"НОЯБРЬ";s:5:"IMAGE";s:45:"/cms/scenes/backgrounds/weather/November3.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:12:"НОЯБРЬ";s:18:"CONDITION_ADVANCED";s:109:"if (stripos(gg('ThisComputer.dateNow'), 'Нояб')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:2:"11";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:11;a:27:{s:5:"TITLE";s:14:"ДЕКАБРЬ";s:5:"IMAGE";s:45:"/cms/scenes/backgrounds/weather/December2.jpg";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"2";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:12:"ThisComputer";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:14:"ДЕКАБРЬ";s:18:"CONDITION_ADVANCED";s:109:"if (stripos(gg('ThisComputer.dateNow'), 'Дека')) {
+        $display=1;
+} else {
+        $display=0;
+}";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:2:"12";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:4;a:30:{s:2:"ID";s:3:"217";s:5:"TITLE";s:9:"panel-now";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"-18";s:4:"LEFT";s:2:"12";s:5:"WIDTH";s:3:"400";s:6:"HEIGHT";s:3:"180";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"50";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:842:" <div class="panel-now">
+    <div class="mainInfo">
+      <img src="http://openweathermap.org/img/wn/%ow_fact.image%@2x.png" alt="%ow_fact.weather_type%" title="%ow_fact.weather_type%" />
+      <div class="temp"><span class="value">%ow_fact.temperature%<span class="degree">&deg;C</span></span></div>
+    </div>
+    <div class="row">
+      <div class="info"><i class="fa fa-paper-plane-o"></i><span class="value">%ow_fact.wind_speed% м/с</span></div>
+      <div class="info"><i class="fa fa-arrows"></i><span class="value">%ow_fact.wind_direction_text%</span></div>
+      <div class="info"><i class="fa fa-tint"></i><span class="value">%ow_fact.humidity% &#37;</span></div>
+      <div class="info"><i class="fa fa-sort-amount-asc"></i><span class="value">%ow_fact.pressure_mmhg% мм рт.ст.</span></div>
+    </div>
+  </div>
+";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:5;a:30:{s:2:"ID";s:3:"218";s:5:"TITLE";s:14:"panel-location";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"-21";s:4:"LEFT";s:3:"798";s:5:"WIDTH";s:3:"200";s:6:"HEIGHT";s:3:"100";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"60";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:210:"<div class="panel-location">
+ 	<div class="icon"><i class="fa fa-map-marker"></i></div>
+    <div class="title"> <span>Екатеринбург</span><span>Свердловская обл.</span></div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:6;a:30:{s:2:"ID";s:3:"219";s:5:"TITLE";s:13:"panel_today_1";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"241";s:4:"LEFT";s:2:"51";s:5:"WIDTH";s:3:"135";s:6:"HEIGHT";s:3:"120";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"40";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:944:"<div class="panel-today">
+    <div class="box">
+      	<div class="title">Cегодня</div>
+    	<img src="http://openweathermap.org/img/wn/%ow_forecast_2.image%@2x.png" />
+      	<div class="temp"><span class="value">%ow_forecast_2.temp_day%<span class="degree">&deg;C</span><span class="separator">/</span>%ow_forecast_2.temp_night%<span class="degree">&deg;C</span></span></div>
+      
+         <div class="row">
+        	<div class="info"><i class="fa fa-paper-plane-o"></i><span class="value">%ow_forecast_2.wind_speed%</span></div>
+        	<div class="info"><i class="fa fa-arrows"></i><span class="value">%ow_forecast_2.wind_direction_text%</span></div>
+        	<div class="info"><i class="fa fa-tint"></i><span class="value">%ow_forecast_2.humidity%</span></div>
+        	<div class="info"><i class="fa fa-sort-amount-asc"></i><span class="value">%ow_forecast_2.pressure_mmhg%</span></div>
+     	</div>
+	</div>
+</div>
+";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:7;a:30:{s:2:"ID";s:3:"220";s:5:"TITLE";s:15:"panel-forecast1";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"371";s:4:"LEFT";s:2:"10";s:5:"WIDTH";s:3:"140";s:6:"HEIGHT";s:3:"150";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:3:"130";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:443:"<div class="panel-forecast">
+    <div class="box">
+      <div class="title">%ow_forecast_2.date%</div>
+      	<img src="http://openweathermap.org/img/wn/%ow_forecast_2.image%@2x.png"/>
+      <div class="temp"><span class="value">%ow_forecast_2.temp_day%<span class="degree">&deg;C</span></span><span class="separator">/</span><span class="value">%ow_forecast_2.temp_night%<span class="degree">&deg;C</span></span></div>
+    </div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:8;a:30:{s:2:"ID";s:3:"221";s:5:"TITLE";s:13:"panel_today_2";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"241";s:4:"LEFT";s:3:"186";s:5:"WIDTH";s:3:"135";s:6:"HEIGHT";s:3:"120";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"30";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:955:"<div class="panel-today">
+    <div class="box">
+      	<div class="title">Завтра</div>
+    	<img src="http://openweathermap.org/img/wn/%ow_forecast_2_1.image%@2x.png" />
+      	<div class="temp"><span class="value">%ow_forecast_2_1.temp_day%<span class="degree">&deg;C</span><span class="separator">/</span>%ow_forecast_2_1.temp_night%<span class="degree">&deg;C</span></span></div>
+      
+         <div class="row">
+        	<div class="info"><i class="fa fa-paper-plane-o"></i><span class="value">%ow_forecast_2_1.wind_speed%</span></div>
+        	<div class="info"><i class="fa fa-arrows"></i><span class="value">%ow_forecast_2_1.wind_direction_text%</span></div>
+        	<div class="info"><i class="fa fa-tint"></i><span class="value">%ow_forecast_2_1.humidity%</span></div>
+        	<div class="info"><i class="fa fa-sort-amount-asc"></i><span class="value">%ow_forecast_2_1.pressure_mmhg%</span></div>
+     	</div>
+	</div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:9;a:30:{s:2:"ID";s:3:"222";s:5:"TITLE";s:13:"panel_today_3";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"241";s:4:"LEFT";s:3:"321";s:5:"WIDTH";s:3:"135";s:6:"HEIGHT";s:3:"120";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"20";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:967:"<div class="panel-today">
+    <div class="box">
+      	<div class="title">Послезавтра</div>
+    	<img src="http://openweathermap.org/img/wn/%ow_forecast_2_2.image%@2x.png" />
+      	<div class="temp"><span class="value">%ow_forecast_2_2.temp_day%<span class="degree">&deg;C</span><span class="separator">/</span>%ow_forecast_2_2.temp_night%<span class="degree">&deg;C</span></span></div>
+      
+         <div class="row">
+        	<div class="info"><i class="fa fa-paper-plane-o"></i><span class="value">%ow_forecast_2_2.wind_speed%</span></div>
+        	<div class="info"><i class="fa fa-arrows"></i><span class="value">%ow_forecast_2_2.wind_direction_text%</span></div>
+        	<div class="info"><i class="fa fa-tint"></i><span class="value">%ow_forecast_2_2.humidity%</span></div>
+        	<div class="info"><i class="fa fa-sort-amount-asc"></i><span class="value">%ow_forecast_2_2.pressure_mmhg%</span></div>
+     	</div>
+	</div>
+</div>
+";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:10;a:30:{s:2:"ID";s:3:"223";s:5:"TITLE";s:15:"panel-forecast2";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"371";s:4:"LEFT";s:3:"150";s:5:"WIDTH";s:3:"140";s:6:"HEIGHT";s:3:"150";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:3:"120";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:451:"<div class="panel-forecast">
+    <div class="box">
+      <div class="title">%ow_forecast_2_1.date%</div>
+      	<img src="http://openweathermap.org/img/wn/%ow_forecast_2_1.image%@2x.png"/>
+      <div class="temp"><span class="value">%ow_forecast_2_1.temp_day%<span class="degree">&deg;C</span></span><span class="separator">/</span><span class="value">%ow_forecast_2_1.temp_night%<span class="degree">&deg;C</span></span></div>
+    </div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:11;a:30:{s:2:"ID";s:3:"212";s:5:"TITLE";s:22:"general_CSS (only CSS)";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"0";s:4:"LEFT";s:1:"0";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:8264:"@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+
+/* -----------------------------------------------------------------------*/
+/* ОБЩЕЕ СОБРАНИЕ КОДА ДЛЯ АНИМАЦИИ */
+/* -----------------------------------------------------------------------*/
+.element_217 { animation: pannow 1s ease-out; } /* panel now */
+.element_219 { animation: pan3days 1s ease-out; } /* panel_today_1 */
+.element_221 { animation: pan3days 1s ease-out; } /* panel_today_2  */
+.element_222 { animation: pan3days 1s ease-out; } /* panel_today_3  */
+.element_218 { animation: panloc 1s ease-out; } /* panel loc */
+.element_220 { animation: forfunctions 0.8s ease-out; } /* - прогноз */
+.element_223 { animation: forfunctions 0.9s ease-out; } /* - прогноз */
+.element_224 { animation: forfunctions 1.0s ease-out; } /* - прогноз */
+.element_225 { animation: forfunctions 1.1s ease-out; } /* - прогноз */
+.element_226 { animation: forfunctions 1.2s ease-out; } /* - прогноз */
+.element_227 { animation: forfunctions 1.3s ease-out; } /* - прогноз */
+.element_228 { animation: forfunctions 1.4s ease-out; } /* - прогноз */
+.element_213 { animation: forheading 1.2s ease-out; } /* - блок back */
+.element_214 { animation: forheading 1.6s ease-out; } /* - блок handing */
+
+/* -----------------------------------------------------------------------*/
+/* стили для heading*/
+/* -----------------------------------------------------------------------*/
+ .element_214 {
+-moz-border-radius: 10px 0px 0px 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+}
+/* -----------------------------------------------------------------------*/
+/* стили для кнопки BACK*/
+/* -----------------------------------------------------------------------*/
+.backbutton {
+ box-sizing: border-box;
+ color: white;
+ position: absolute;
+  width: 100%;
+  bottom: 0px;
+  padding: 0px;
+  align-items: center;
+  justify-content: space-around;
+}
+.backbutton .icon {
+  margin: 0;
+  width: 40px;
+  height: 40px;
+  padding: 0px;
+  text-align: center;
+  cursor: pointer;
+  /* border: 9px solid rgba(0, 233, 233, 0.6);
+  -moz-border-radius: 82px;
+  -webkit-border-radius: 82px;
+  border-radius: 82px; */
+}
+.backbutton  .icon .fa {
+ margin: 0px 0px 0px 0px;
+ font-size: 40px;
+}
+/* ----------------------------------------------------------- */
+/* панель погода сейчас */
+/* ----------------------------------------------------------- */
+
+.panel-now {
+  box-sizing: border-box;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 480px;
+  height: 250px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  font-family: arial;
+}
+
+.panel-now .mainInfo {
+  text-align: center;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+.panel-now .mainInfo img {
+  display: block;
+  margin: auto;
+  height: 140px;
+  padding-right: 20px;
+}
+
+.panel-now .mainInfo .temp {
+  display: block;
+  font-size: 80px;
+  line-height: 0.8;
+  margin-bottom: 12px;
+  margin-top: -10px;
+}
+
+.panel-now .mainInfo .temp .value {
+  font-weight: 600;
+}
+
+.panel-now .mainInfo .temp .degree {
+  margin-left: 5px;
+  font-size: 46px;
+  line-height: 2.5rem;
+  font-weight: 400;
+  vertical-align: top;
+}
+
+.panel-now .row {
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.panel-now .row .info {
+  /*flex: ;*/
+  text-align: center;
+}
+
+.panel-now .row .info i {
+  margin-right: 8px;
+  color: #ff6f4d;
+  font-size: 20px;
+}
+
+.panel-now .row .info .value {
+  font-weight: 600;
+  font-size: 20px;
+}
+/* ----------------------------------------------------------- */
+/* панель погода сегодня */
+/* ----------------------------------------------------------- */
+
+.panel-today {
+  box-sizing: border-box;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 135px;
+  height: 120px;
+  /*background-color: rgba(0, 0, 0, 0.5);*/
+  /*-moz-border-radius: 0 05px;
+  -webkit-border-radius: 5px;*/
+  border-radius: 0 0 0 0;
+  font-family: arial;
+}
+
+.panel-today .box {
+  height: 100%;
+  /*border-right: 3px solid rgba(0, 0, 0, 0.3);
+  border-left: 3px solid rgba(0, 0, 0, 0.3);*/
+}
+
+.panel-today .box .title {
+  background-color: rgba(0, 0, 0, 0.2);
+  font-size: 18px;
+  line-height: 1.3;
+  font-weight: 600;
+  text-align: center;
+  color: #ff6f4d;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+.panel-today .box img {
+  display: block;
+  height: 55px;
+  margin: 0 0 0 37px;
+}
+.panel-today .box .temp {
+  font-size: 22px;
+  line-height: 1.3;
+  font-weight: 600;
+  text-align: center;
+  margin: 0 0 -2px 0;
+}
+.panel-today .box .temp .separator {
+  margin: 0 1px;
+  opacity: 0.4;
+}
+.panel-today .box .temp .value {
+  font-weight: 600;
+}
+
+.panel-today .box .temp .degree {
+  margin-left: 2px;
+  font-size: 12px;
+  line-height: 1.5;
+  font-weight: 300;
+  vertical-align: top;
+}
+.panel-today .box .row {
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-top: 2px solid rgba(0, 0, 0, 0.4);
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.panel-today .box .row .info {
+  /*flex: ;*/
+    text-align: center;
+  margin: 0px 0 0 0;
+}
+
+.panel-today .box .row .info i {
+  margin-right: 2px;
+  color: #ff6f4d;
+  font-size: 10px;
+}
+
+.panel-today .box .row .info .value {
+  font-weight: 600;
+  font-size: 10px;
+}
+/* ----------------------------------------------------------- */
+/* панель  локация*/
+/* ----------------------------------------------------------- */
+
+.panel-location {
+  box-sizing: border-box;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 400px;
+  height: 150px;
+  text-align: left;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.9);
+  /*-moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;*/
+  background-color: initial;
+  font-family: arial;
+}
+
+.panel-location .icon {
+  display: inline-block;
+  text-align: center;
+  font-size: 76px;
+  line-height: 1.2;
+  padding: 0 10px 0 0;
+}
+
+.panel-location .title {
+  display: inline-block;
+  text-align: center;
+  font-size: 32px;
+  line-height: 1;
+  margin-right: 15px;
+}
+
+.panel-location .title span {
+  display: block;
+}
+/* ----------------------------------------------------------- */
+/* панели прогноза погоды*/
+/* ----------------------------------------------------------- */
+
+.panel-forecast {
+  box-sizing: border-box;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+  position: absolute;
+  bottom: 0;
+  width: 140px;
+  height: 150px;
+  background-color: rgba(0, 0, 0, 0.5);
+  /* display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  justify-content: space-between;*/
+}
+
+.panel-forecast .box {
+ /* flex: 1;*/
+  height: 100%;
+  border-right: 3px solid rgba(0, 0, 0, 0.3);
+}
+
+.panel-forecast .box .title {
+  background-color: rgba(0, 0, 0, 0.2);
+  font-size: 16px;
+  line-height: 1.2;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ff6f4d;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+  padding: 0px 3px;
+
+}
+
+.panel-forecast .box img {
+  display: block;
+  height: 75px;
+  margin: 0 10px 0 32px; 
+}
+
+.panel-forecast .box .temp {
+  font-size: 26px;
+  line-height: 0.6;
+  font-weight: 600;
+  text-align: center;
+}
+
+.panel-forecast .box .temp .value {
+  font-weight: 600;
+}
+
+.panel-forecast .box .temp .separator {
+  margin: 0 3px;
+  opacity: 0.4;
+}
+
+.panel-forecast .box .temp .degree {
+  margin-left: 2px;
+  font-size: 12px;
+  line-height: 0.1;
+  font-weight: 300;
+  vertical-align: top;
+}";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:4:"2000";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:12;a:30:{s:2:"ID";s:3:"224";s:5:"TITLE";s:15:"panel-forecast3";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"371";s:4:"LEFT";s:3:"290";s:5:"WIDTH";s:3:"140";s:6:"HEIGHT";s:3:"150";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:3:"110";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:451:"<div class="panel-forecast">
+    <div class="box">
+      <div class="title">%ow_forecast_2_2.date%</div>
+      	<img src="http://openweathermap.org/img/wn/%ow_forecast_2_2.image%@2x.png"/>
+      <div class="temp"><span class="value">%ow_forecast_2_2.temp_day%<span class="degree">&deg;C</span></span><span class="separator">/</span><span class="value">%ow_forecast_2_2.temp_night%<span class="degree">&deg;C</span></span></div>
+    </div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:13;a:30:{s:2:"ID";s:3:"225";s:5:"TITLE";s:15:"panel-forecast4";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"371";s:4:"LEFT";s:3:"430";s:5:"WIDTH";s:3:"140";s:6:"HEIGHT";s:3:"150";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:3:"100";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:451:"<div class="panel-forecast">
+    <div class="box">
+      <div class="title">%ow_forecast_2_3.date%</div>
+      	<img src="http://openweathermap.org/img/wn/%ow_forecast_2_3.image%@2x.png"/>
+      <div class="temp"><span class="value">%ow_forecast_2_3.temp_day%<span class="degree">&deg;C</span></span><span class="separator">/</span><span class="value">%ow_forecast_2_3.temp_night%<span class="degree">&deg;C</span></span></div>
+    </div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:14;a:30:{s:2:"ID";s:3:"226";s:5:"TITLE";s:15:"panel-forecast5";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"371";s:4:"LEFT";s:3:"570";s:5:"WIDTH";s:3:"140";s:6:"HEIGHT";s:3:"150";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"90";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:451:"<div class="panel-forecast">
+    <div class="box">
+      <div class="title">%ow_forecast_2_4.date%</div>
+      	<img src="http://openweathermap.org/img/wn/%ow_forecast_2_4.image%@2x.png"/>
+      <div class="temp"><span class="value">%ow_forecast_2_4.temp_day%<span class="degree">&deg;C</span></span><span class="separator">/</span><span class="value">%ow_forecast_2_4.temp_night%<span class="degree">&deg;C</span></span></div>
+    </div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:15;a:30:{s:2:"ID";s:3:"227";s:5:"TITLE";s:15:"panel-forecast6";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"371";s:4:"LEFT";s:3:"710";s:5:"WIDTH";s:3:"140";s:6:"HEIGHT";s:3:"150";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"80";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:451:"<div class="panel-forecast">
+    <div class="box">
+      <div class="title">%ow_forecast_2_5.date%</div>
+      	<img src="http://openweathermap.org/img/wn/%ow_forecast_2_5.image%@2x.png"/>
+      <div class="temp"><span class="value">%ow_forecast_2_5.temp_day%<span class="degree">&deg;C</span></span><span class="separator">/</span><span class="value">%ow_forecast_2_5.temp_night%<span class="degree">&deg;C</span></span></div>
+    </div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:16;a:30:{s:2:"ID";s:3:"228";s:5:"TITLE";s:15:"panel-forecast7";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"371";s:4:"LEFT";s:3:"850";s:5:"WIDTH";s:3:"140";s:6:"HEIGHT";s:3:"150";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"70";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:451:"<div class="panel-forecast">
+    <div class="box">
+      <div class="title">%ow_forecast_2_6.date%</div>
+      	<img src="http://openweathermap.org/img/wn/%ow_forecast_2_6.image%@2x.png"/>
+      <div class="temp"><span class="value">%ow_forecast_2_6.temp_day%<span class="degree">&deg;C</span></span><span class="separator">/</span><span class="value">%ow_forecast_2_6.temp_night%<span class="degree">&deg;C</span></span></div>
+    </div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:17;a:30:{s:2:"ID";s:3:"229";s:5:"TITLE";s:5:"chart";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"71";s:4:"LEFT";s:3:"526";s:5:"WIDTH";s:3:"462";s:6:"HEIGHT";s:3:"288";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:96:".element_229 {
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+}";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"10";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"215";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:31:"[#module name="charts" id="7"#]";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:18;a:30:{s:2:"ID";s:3:"230";s:5:"TITLE";s:13:"css animation";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"0";s:4:"LEFT";s:1:"0";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:942:"/*  карта анимации panel now  */
+@keyframes pannow  {
+  0% { transform: translateX(-480px); }
+  30% { transform: translateX(0px); }
+  100% { transform: translateX(0px); }
+}
+@keyframes pan3days  {
+  0% { transform: translateX(-480px); }
+  30% { transform: translateX(-480px); }
+  60% { transform: translateX(0px); }
+  100% { transform: translateX(0px); }
+}
+@keyframes panloc  {
+  0% { transform: translateX(480px); }
+  30% { transform: translateX(480px); }
+  60% { transform: translateX(0px); }
+  100% { transform: translateX(0px); }
+}
+@keyframes forfunctions {
+  0% { transform: translateY(150px); }
+  60% { transform: translateY(150px); }
+  90% { transform: translateY(-40px); }
+ 100% { transform: translateY(0px); }
+}
+@keyframes forheading {
+  0% { transform: translateY(500px); }
+  45% { transform: translateY(-8px); }
+  65% { transform: translateY(10px); }
+ 100% { transform: translateY(0px); }
+}";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:12:"SMART_REPEAT";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:6:"SYSTEM";s:0:"";s:9:"DEVICE_ID";s:1:"0";s:14:"CLASS_TEMPLATE";s:0:"";s:6:"STATES";a:0:{}}}}}
